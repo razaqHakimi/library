@@ -1,6 +1,5 @@
 <?php
 include("user_authentication.php");
-
 ?>
 
 <!DOCTYPE html>
